@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\FinShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\comment\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateStockRequestDto.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "RelativeToolTip": "api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Title": "CommentMappers.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Mappers\\CommentMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\CommentMappers.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Mappers\\CommentMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\CommentMappers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwB0AAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T11:36:13.997Z",
+              "WhenOpened": "2024-04-30T12:34:13.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateStockRequestDto.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeToolTip": "api\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\CommentRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "api\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T11:08:16.083Z",
+              "WhenOpened": "2024-04-30T12:31:14.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StockMappers.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Mappers\\StockMappers.cs",
-              "RelativeDocumentMoniker": "api\\Mappers\\StockMappers.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Mappers\\StockMappers.cs",
-              "RelativeToolTip": "api\\Mappers\\StockMappers.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAANAAAA",
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T10:44:37.906Z",
+              "WhenOpened": "2024-04-30T12:30:35.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StockDto.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\StockDto.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeToolTip": "api\\Dtos\\Stock\\StockDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAASAAAA",
+              "Title": "UpdateCommentRequestDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T10:40:18.462Z",
+              "WhenOpened": "2024-04-30T12:28:43.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "api\\Controllers\\StockController.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\StockController.cs",
-              "RelativeToolTip": "api\\Controllers\\StockController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAAAUAAAA",
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "api\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:50:33.558Z",
+              "WhenOpened": "2024-04-30T12:20:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCommentRequestDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Comment\\CreateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\CreateCommentRequestDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Comment\\CreateCommentRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\CreateCommentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:28:14.516Z",
               "EditorCaption": ""
             }
           ]
