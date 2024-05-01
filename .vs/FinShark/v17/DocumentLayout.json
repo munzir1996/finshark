@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\FinShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|d:\\projects\\.net\\finshark\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD51100-0540-4955-8636-D42A49CBDB9A}|api\\api.csproj|solutionrelative:api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Repository\\StockRepository.cs",
-              "RelativeDocumentMoniker": "api\\Repository\\StockRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Repository\\StockRepository.cs",
-              "RelativeToolTip": "api\\Repository\\StockRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAASwEEAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:07:19.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IStockRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Interfaces\\IStockRepository.cs",
-              "RelativeDocumentMoniker": "api\\Interfaces\\IStockRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Interfaces\\IStockRepository.cs",
-              "RelativeToolTip": "api\\Interfaces\\IStockRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:07:00.778Z",
+              "WhenOpened": "2024-05-01T11:33:06.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QueryObject.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Helpers\\QueryObject.cs",
-              "RelativeDocumentMoniker": "api\\Helpers\\QueryObject.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Helpers\\QueryObject.cs",
-              "RelativeToolTip": "api\\Helpers\\QueryObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwDQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:04:03.041Z",
+              "WhenOpened": "2024-05-01T11:29:07.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "api\\Controllers\\StockController.cs",
-              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Controllers\\StockController.cs",
-              "RelativeToolTip": "api\\Controllers\\StockController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAmwHAAAAAAAAAA",
+              "Title": "api",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T11:05:23.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T10:45:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:01:50.1Z",
+              "WhenOpened": "2024-05-01T10:35:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:33:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\FinShark\\api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "api\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Projects\\.Net\\FinShark\\api\\Models\\AppUser.cs",
+              "RelativeToolTip": "api\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:32:17.634Z",
               "EditorCaption": ""
             }
           ]
