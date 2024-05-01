@@ -1,5 +1,6 @@
 ﻿using api.Data;
 using api.Dtos.Stock;
+using api.Helpers;
 using api.Interfaces;
 using api.Mappers;
 using api.Models;
@@ -38,9 +39,31 @@ namespace api.Repository
             return stockModel;
         }
 
-        public async Task<List<Stock>> GetAllAsync()
+        public async Task<List<Stock>> GetAllAsync(QueryObject query)
         {
-            return await _context.Stock.Include(i => i.Comments).ToListAsync();
+            var stocks = _context.Stock.Include(i => i.Comments).AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(query.CompanyName))
+            {
+                stocks = stocks.Where(stock => stock.CompanyName.Contains(query.CompanyName));
+            }
+
+            if (!string.IsNullOrWhiteSpace(query.Symbol))
+            {
+                stocks = stocks.Where(stock => stock.Symbol.Contains(query.Symbol));
+            }
+
+            if (!string.IsNullOrWhiteSpace(query.SortBy))
+            {
+                if (query.SortBy.Equals("Symbol", StringComparison.OrdinalIgnoreCase))
+                {
+                    stocks = query.IsDecsending ? stocks.OrderByDescending(stock => stock.Symbol) : stocks.OrderBy(stock => stock.Symbol);
+                }
+            }
+
+            var skipNumber = (query.PageNumber - 1) * query.PageSize;
+
+            return await stocks.Skip(skipNumber).Take(query.PageSize).ToListAsync();
         }
 
         public async Task<Stock?> GetByIdAsync(int id)
